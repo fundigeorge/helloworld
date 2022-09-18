@@ -1,8 +1,8 @@
 # helloworld
 #### hello there with git and github, {Date of current version}
-#### By **{List of contributors}**
+#### By **george, fundi, viola**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+this project just say hello to all the good and bad people
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
